@@ -19,7 +19,7 @@ global.author = "DAHAM PANSILU🙂" //ur sticker pack name
 global.OwnerName = "DAHAM PANSILU🙂" //ur name
 global.BotSourceCode = "https://youtube.com/@dreamguydeepak" //ur website link
 global.SupportGroupLink = "https://chat.whatsapp.com/DSPhVEBnyS76wnUnB5JmM9" //ur group link 
-"
+global.sessionName = "session"
 
 // Prefix //
 // If you want to change the prefix, change it and also change all switch's button id from Zenitsu.js  otherwise buttons will not work //
