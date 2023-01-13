@@ -2,7 +2,7 @@
   "name": "Zenitsu-Bot",
   "description": "A whatsApp bot based on Baileys linrary with Multi Device support",
   "repository": "https://github.com/DGDEEPAK/Zenitsu-Bot",
-  "logo": "https://i.ibb.co/vXnjzpr/cheemspic.jpg",
+  "logo": "https://i.ibb.co/0XMBD79/capsule-616x353.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
